@@ -1,1 +1,38 @@
-3--------- TEST scrambleOrRemove (part b) ---------
+Ã[Abby Smith: 96.7, Michelle Jones: 98.1, Chase Bean: 95.2, Jack Clancy: 97.3, Brittany Jones: 95.5, Lisa Frank: 92.4, Marie Angelina: 96.5, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2]
+true
+Ã[Dean Jones: 93.2, Lisa Frank: 99.5, Peter Frank: 97.9, Marie Angelina: 96.5, Lisa Frank: 92.4, Brittany Jones: 95.5, Jack Clancy: 97.3, Chase Bean: 95.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Chase Bean: 95.2, Jack Clancy: 97.3, Marie Angelina: 96.5, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Lisa Frank: 99.5, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Lisa Frank: 99.5, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Lisa Frank: 99.5, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Peter Frank: 97.9, Dean Jones: 93.2, Brittany Jones: 95.5, Lisa Frank: 92.4, Lisa Frank: 99.5, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Brittany Jones: 95.5, Lisa Frank: 92.4, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Brittany Jones: 95.5, Lisa Frank: 92.4, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Brittany Jones: 95.5, Lisa Frank: 92.4, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Brittany Jones: 95.5, Lisa Frank: 92.4, Peter Frank: 97.9, Lisa Frank: 99.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Peter Frank: 97.9, Lisa Frank: 92.4, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Peter Frank: 97.9, Lisa Frank: 92.4, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Peter Frank: 97.9, Lisa Frank: 92.4, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Peter Frank: 97.9, Lisa Frank: 92.4, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Peter Frank: 97.9, Lisa Frank: 92.4, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+true
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]
+Ã[Marie Angelina: 96.5, Chase Bean: 95.2, Jack Clancy: 97.3, Lisa Frank: 99.5, Lisa Frank: 92.4, Peter Frank: 97.9, Brittany Jones: 95.5, Dean Jones: 93.2, Michelle Jones: 98.1, Abby Smith: 96.7]

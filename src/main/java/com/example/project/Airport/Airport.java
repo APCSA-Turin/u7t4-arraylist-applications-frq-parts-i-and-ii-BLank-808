@@ -19,8 +19,15 @@ public class Airport  {
      *  as described in part (a)
      */
     public double getTotalRevenue() {
-        /* to be implemented in part (a) */
-        return 0.0;
+        double TotalR=0.0;
+        for(Flight f:allFlights){
+            if(f.getCapacity()>f.getNumPassengers()){
+                TotalR+=f.getPrice()*f.getNumPassengers();
+            }else{
+                TotalR+=f.getPrice()*f.getCapacity();
+            }
+        }
+        return TotalR;
     }
 
     /** Updates the list of flights by removing certain flights and
@@ -28,7 +35,13 @@ public class Airport  {
      *  as described in part (b)
      */
     public int updateFlights() {
-        /* to be implemented in part (b) */
-        return 0;
+        int passengers=0;
+        for (int index = 0; index < allFlights.size(); index++) {
+            if(allFlights.get(index).getCapacity()*.2>allFlights.get(index).getNumPassengers()){
+                passengers+=allFlights.remove(index).getNumPassengers();
+                index--;
+            }
+        }
+        return passengers;
     }
 }
